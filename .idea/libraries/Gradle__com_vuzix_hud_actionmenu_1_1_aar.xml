@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vuzix:hud-actionmenu:1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hud-actionmenu-1.1.aar/c0f4ae13d46520a018999598d78e7f09/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hud-actionmenu-1.1.aar/c0f4ae13d46520a018999598d78e7f09/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vuzix/hud-actionmenu/1.1/64be72fd6480223fbc03ba8cc86405df542e4a32/hud-actionmenu-1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
